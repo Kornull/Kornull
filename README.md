@@ -1,6 +1,6 @@
 ## Uladzimir Karnialiuk
-### *Hi everyone 👋!*
-####    *I'm Frontend Developer and I open to work*
+### *Hi everyone 👋*
+### *I'm Frontend Developer and I open to work*
 ---
 ### My Projects:
 
