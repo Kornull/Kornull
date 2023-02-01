@@ -52,6 +52,15 @@
 
 ---
 ## Contacts
-* [Telegram](https://t.me/kornul665)
-* E-mail: u.karnialiuk@gmail.com
 
+<div id="badges">
+  <a href="https://t.me/kornul665">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+ <a href="mailto:u.karnialiuk@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/uladzimir-karnialiuk/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
