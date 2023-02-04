@@ -19,7 +19,7 @@
 ---
 ### My Projects:
 
-* [Project Tracker](https://kornull-project-tracker.netlify.app/) | [code](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/react/project-management-system-EN.md)
+* [Project Tracker](https://kornull-project-tracker.netlify.app/) | [code](https://github.com/Kornull/Project-tracker)
  * [Rick&Morty-API](https://kornull.netlify.app/) | [code](https://github.com/Kornull/Rick-and-Morty-React)
  * [Async-race](https://github.com/Kornull/RS-School-Stage-1-2/tree/asynk-race) | `PC installation`
  * [News-api](https://github.com/Kornull/News-API) | `PC installation` 
