@@ -21,7 +21,7 @@
 
 * [Project Tracker](https://kornull-project-tracker.netlify.app/) | [code](https://github.com/Kornull/Project-tracker)
  * [Rick&Morty-API](https://kornull.netlify.app/) | [code](https://github.com/Kornull/Rick-and-Morty-React)
- * [Async-race](https://github.com/Kornull/RS-School-Stage-1-2/tree/asynk-race) | `PC installation`
+ * [Async-race](https://kornull-async.netlify.app/) | [code](https://github.com/Kornull/RS-School-Stage-1-2/tree/asynk-race)
  * [News-api](https://github.com/Kornull/News-API) | `PC installation` 
  * [Shelter-site](https://kornull-shelder.netlify.app) | [code](https://github.com/Kornull/Shelter)
  * [Online-store](https://kornull.github.io/Online-store/store) | [code](https://github.com/Kornull/Online-store)
