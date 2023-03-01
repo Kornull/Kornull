@@ -19,8 +19,9 @@
 ---
 ### My Projects:
 
-* [Project Tracker](https://kornull-project-tracker.netlify.app/) | [code](https://github.com/Kornull/Project-tracker)
+ * [Project Tracker](https://kornull-project-tracker.netlify.app/) | [code](https://github.com/Kornull/Project-tracker)
  * [Rick&Morty-API](https://kornull.netlify.app/) | [code](https://github.com/Kornull/Rick-and-Morty-React)
+ * [Personal ToDo](https://kornull-personal-todo.netlify.app/) | [code](https://github.com/Kornull/todo_list)
  * [Async-race](https://kornull-async.netlify.app/) | [code](https://github.com/Kornull/RS-School-Stage-1-2/tree/asynk-race)
  * [News-api](https://github.com/Kornull/News-API) | `PC installation` 
  * [Shelter-site](https://kornull-shelder.netlify.app) | [code](https://github.com/Kornull/Shelter)
