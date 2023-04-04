@@ -27,6 +27,7 @@
  * [Rick&Morty-API](https://kornull.netlify.app/) | [code](https://github.com/Kornull/Rick-and-Morty-React)
  * [Personal ToDo](https://kornull-personal-todo.netlify.app/) | [code](https://github.com/Kornull/todo_list)
  * [Async-race](https://kornull-async.netlify.app/) | [code](https://github.com/Kornull/RS-School-Stage-1-2/tree/asynk-race)
+ * [Virtual keyboard](https://kornull.github.io/virtualKeyboard/keyboard/) | [code](https://github.com/Kornull/virtualKeyboard)
  * [News-api](https://github.com/Kornull/News-API) | `PC installation` 
  * [Shelter-site](https://kornull-shelder.netlify.app) | [code](https://github.com/Kornull/Shelter)
  * [Online-store](https://kornull.github.io/Online-store/store) | [code](https://github.com/Kornull/Online-store)
