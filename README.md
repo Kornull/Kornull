@@ -23,6 +23,7 @@
 ---
 ### My Projects:
 
+ * [CV](https://portfolio-kornull.netlify.app/) | [code](https://github.com/Kornull/CV)
  * [Project Tracker](https://kornull-project-tracker.netlify.app/) | [code](https://github.com/Kornull/Project-tracker)
  * [Rick&Morty-API](https://kornull.netlify.app/) | [code](https://github.com/Kornull/Rick-and-Morty-React)
  * [Personal ToDo](https://kornull-personal-todo.netlify.app/) | [code](https://github.com/Kornull/todo_list)
