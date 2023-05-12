@@ -19,7 +19,7 @@
 </div>
 
 ### *Hi everyone 👋*
-### *I'm Frontend Developer and I open to work*
+### *I'm a Frontend Developer and I open to work*
 ---
 ### My Projects:
 
