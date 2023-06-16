@@ -1,6 +1,6 @@
 
 
-## Uladzimir Karnialiuk
+## Uladzimir
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjEyZTU2MjEwNzEyNTFmYWRkOTllMDBiMGMwMWY2N2JiMzcxZDY3YSZjdD1z/fkZukR450RQ1qnGaq9/giphy.gif" width="100"/>
