@@ -24,6 +24,7 @@
 ### My Projects:
 
  * [CV](https://portfolio-kornull.netlify.app/) | [code](https://github.com/Kornull/CV)
+ * [Book store](https://react-testovoe-zadanie.vercel.app/) | [code](https://github.com/Kornull/slmax-react-testovoe-zadanie)
  * [Product List Page test-task](https://kornull-product-list.netlify.app) | [code](https://github.com/Kornull/product-list-page-test)
  * [Project Tracker](https://kornull-project-tracker.netlify.app/) | [code](https://github.com/Kornull/Project-tracker)
  * [Rick&Morty-API](https://kornull.netlify.app/) | [code](https://github.com/Kornull/Rick-and-Morty-React)
