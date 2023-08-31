@@ -22,13 +22,15 @@
 ### *I'm a Frontend Developer and I open to work*
 ---
 ### My Projects:
-
+#### React:
  * [CV](https://portfolio-kornull.netlify.app/) | [code](https://github.com/Kornull/CV)
  * [Book store](https://react-testovoe-zadanie.vercel.app/) | [code](https://github.com/Kornull/slmax-react-testovoe-zadanie)
  * [Product List Page test-task](https://kornull-product-list.netlify.app) | [code](https://github.com/Kornull/product-list-page-test)
  * [Project Tracker](https://kornull-project-tracker.netlify.app/) | [code](https://github.com/Kornull/Project-tracker)
  * [Rick&Morty-API](https://kornull.netlify.app/) | [code](https://github.com/Kornull/Rick-and-Morty-React)
  * [Personal ToDo](https://kornull-personal-todo.netlify.app/) | [code](https://github.com/Kornull/todo_list)
+
+#### Js/Ts:
  * [Async-race](https://kornull-async.netlify.app/) | [code](https://github.com/Kornull/RS-School-Stage-1-2/tree/asynk-race)
  * [Virtual keyboard](https://kornull.github.io/virtualKeyboard/keyboard/) | [code](https://github.com/Kornull/virtualKeyboard)
  * [News-api](https://github.com/Kornull/News-API) | `PC installation` 
