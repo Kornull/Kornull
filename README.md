@@ -29,19 +29,17 @@
 #### - React:
  * [CV](https://portfolio-kornull.netlify.app/) | [code](https://github.com/Kornull/CV)
  * [Google clone](https://kornull-google-clone.vercel.app/) | [code](https://github.com/Kornull/google-clone)
+ * [Project Tracker](https://kornull-project-tracker.netlify.app/) | [code](https://github.com/Kornull/Project-tracker)
  * [Book store](https://react-testovoe-zadanie.vercel.app/) | [code](https://github.com/Kornull/slmax-react-testovoe-zadanie)
  * [Product List Page test-task](https://kornull-product-list.netlify.app) | [code](https://github.com/Kornull/product-list-page-test)
- * [Project Tracker](https://kornull-project-tracker.netlify.app/) | [code](https://github.com/Kornull/Project-tracker)
  * [Rick&Morty-API](https://kornull.netlify.app/) | [code](https://github.com/Kornull/Rick-and-Morty-React)
  * [Personal ToDo](https://kornull-personal-todo.netlify.app/) | [code](https://github.com/Kornull/todo_list)
 
-
 #### - Js/Ts:
-
  * [Virtual keyboard](https://kornull.github.io/virtualKeyboard/keyboard/) | [code](https://github.com/Kornull/virtualKeyboard)
+ * [Online-store](https://kornull.github.io/Online-store/store) | [code](https://github.com/Kornull/Online-store)
  * [News-api](https://github.com/Kornull/News-API) | `PC installation`
  * [Shelter-site](https://kornull-shelder.netlify.app) | [code](https://github.com/Kornull/Shelter)
- * [Online-store](https://kornull.github.io/Online-store/store) | [code](https://github.com/Kornull/Online-store)
  * [Portfolio-landing](https://rolling-scopes-school.github.io/kornull-JSFEPRESCHOOL/portfolio/) | [code](https://github.com/Kornull/RSSchool-stage0/tree/portfolio-part3)
  * [Eco-sounds](https://rolling-scopes-school.github.io/kornull-JSFEPRESCHOOL/eco-sounds/) | [code](https://github.com/Kornull/RSSchool-stage0/tree/eco-sounds)
  * [Image-gallery](https://rolling-scopes-school.github.io/kornull-JSFEPRESCHOOL/image-galery/) | [code](https://github.com/Kornull/RSSchool-stage0/tree/image-galery)
@@ -49,7 +47,6 @@
  * [cssMemSlider](https://kornull.github.io/cssMemSlider/cssMemSlider/) | [code](https://github.com/Kornull/cssMemSlider)
 
  ---
-
 
 ### :rocket: Codewars:
 [![codewars](https://www.codewars.com/users/Kornull/badges/large)](https://www.codewars.com/users/Kornull)
