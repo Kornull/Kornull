@@ -23,6 +23,7 @@
 
 </div>
 
+---
 
 ### :file_folder: Projects:
 #### - React:
@@ -52,8 +53,8 @@
 
 ### :rocket: Codewars:
 [![codewars](https://www.codewars.com/users/Kornull/badges/large)](https://www.codewars.com/users/Kornull)
- ---
 
+ ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div >
