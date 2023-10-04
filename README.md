@@ -83,8 +83,7 @@
  ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kornull&theme=chartreuse_dark&&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-olive.vercel.app?user=Kornull&theme=chartreuse_dark&&hide_border=true)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kornull&theme=chartreuse_dark)
 
