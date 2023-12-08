@@ -25,7 +25,7 @@
 
 ---
 
-### :file_folder: Projects:
+### 📁 Projects:
 #### - React:
  * [CV](https://portfolio-kornull.netlify.app/) | [code](https://github.com/Kornull/CV)
  * [Google clone](https://kornull-google-clone.vercel.app/) | [code](https://github.com/Kornull/google-clone)
@@ -49,12 +49,12 @@
 
  ---
 
-### :rocket: Codewars:
+### 🚀 Codewars:
 [![codewars](https://www.codewars.com/users/Kornull/badges/large)](https://www.codewars.com/users/Kornull)
 
  ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠 Languages and Tools :
 <div >
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -83,7 +83,7 @@
 
  ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](https://github-readme-streak-stats-olive.vercel.app?user=Kornull&theme=chartreuse_dark&&hide_border=true)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kornull&theme=chartreuse_dark)
@@ -92,7 +92,7 @@
 
  ---
 
- ## :book: Education
+ ### :book: Education
 - **Sep 2022 - Dec 2022** [RS School React](https://rs.school/react/) | [Certificate](https://app.rs.school/certificate/dqot7sf6)
 - **Mar 2022 - Sep 2022** [RS School JAVASCRIPT/FRONT-END 2022Q1(JAVASCRIPT)](https://rs.school/js/) | [Certificate](https://app.rs.school/certificate/60gbxy8l)</br>
 - **Dec 2021 - Mar 2022** [RS School JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://rs.school/js-stage0/) | [Certificate](https://app.rs.school/certificate/wono6cx6)</br>
