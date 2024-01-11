@@ -26,6 +26,10 @@
 ---
 
 ### 📁 Projects:
+#### - Angular:
+ * [RS-Network](https://kornull-rs-network.netlify.app/) | [code](https://github.com/Kornull/rs-network)
+ * [YouTube-client](https://kornull-angular.netlify.app/) | [code](https://github.com/Kornull/Youtube-App)
+   
 #### - React:
  * [CV](https://portfolio-kornull.netlify.app/) | [code](https://github.com/Kornull/CV)
  * [Google clone](https://kornull-google-clone.vercel.app/) | [code](https://github.com/Kornull/google-clone)
@@ -93,6 +97,7 @@
  ---
 
  ### :book: Education
+- **Oct 2023 - Jan 2024** [RS School Angular](https://rs.school/angular/) | Certificate expected
 - **Sep 2022 - Dec 2022** [RS School React](https://rs.school/react/) | [Certificate](https://app.rs.school/certificate/dqot7sf6)
 - **Mar 2022 - Sep 2022** [RS School JAVASCRIPT/FRONT-END 2022Q1(JAVASCRIPT)](https://rs.school/js/) | [Certificate](https://app.rs.school/certificate/60gbxy8l)</br>
 - **Dec 2021 - Mar 2022** [RS School JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://rs.school/js-stage0/) | [Certificate](https://app.rs.school/certificate/wono6cx6)</br>
