@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ0a2k5ODN0MHg2cDhzZTVxM2pmZDlrYjJpdWl1cDI2bGZkOTJhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -30,15 +30,6 @@
  * [RS-Network](https://kornull-rs-network.netlify.app/) | [code](https://github.com/Kornull/rs-network)
  * [YouTube-client](https://kornull-angular.netlify.app/) | [code](https://github.com/Kornull/Youtube-App)
    
-#### - React:
- * [CV](https://portfolio-kornull.netlify.app/) | [code](https://github.com/Kornull/CV)
- * [Google clone](https://kornull-google-clone.vercel.app/) | [code](https://github.com/Kornull/google-clone)
- * [Project Tracker](https://kornull-project-tracker.netlify.app/) | [code](https://github.com/Kornull/Project-tracker)
- * [Book store](https://react-testovoe-zadanie.vercel.app/) | [code](https://github.com/Kornull/slmax-react-testovoe-zadanie)
- * [Product List Page test-task](https://kornull-product-list.netlify.app) | [code](https://github.com/Kornull/product-list-page-test)
- * [Rick&Morty-API](https://kornull.netlify.app/) | [code](https://github.com/Kornull/Rick-and-Morty-React)
- * [Personal ToDo](https://kornull-personal-todo.netlify.app/) | [code](https://github.com/Kornull/todo_list)
-
 #### - Js/Ts:
  * [Virtual keyboard](https://kornull.github.io/virtualKeyboard/keyboard/) | [code](https://github.com/Kornull/virtualKeyboard)
  * [Async-race(game)](https://kornull-async-race.netlify.app) | [code](https://github.com/Kornull/RS-School-Stage-1-2/tree/asynk-race)
@@ -51,6 +42,7 @@
  * [Memory-game](https://rolling-scopes-school.github.io/kornull-JSFEPRESCHOOL/memory-game/) | [code](https://github.com/Kornull/RSSchool-stage0/tree/memory-game)
  * [cssMemSlider](https://kornull.github.io/cssMemSlider/cssMemSlider/) | [code](https://github.com/Kornull/cssMemSlider)
 
+
  ---
 
 ### 🚀 Codewars:
@@ -60,13 +52,11 @@
 
 ### 🛠 Languages and Tools :
 <div >
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white&color=263238)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -77,11 +67,12 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
