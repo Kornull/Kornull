@@ -32,7 +32,7 @@
    
 #### - Js/Ts:
  * [Virtual keyboard](https://kornull.github.io/virtualKeyboard/keyboard/) | [code](https://github.com/Kornull/virtualKeyboard)
- * [Async-race(game)](https://kornull-async-race.netlify.app) | [code](https://github.com/Kornull/RS-School-Stage-1-2/tree/asynk-race)
+ * [Async-race(game)](https://kornull-async-race.netlify.app) | [code](https://github.com/Kornull/Async-race-game-)
  * [Online-store](https://kornull.github.io/Online-store/store) | [code](https://github.com/Kornull/Online-store)
  * [News-api](https://github.com/Kornull/News-API) | `PC installation`
  * [Shelter-site](https://kornull-shelder.netlify.app) | [code](https://github.com/Kornull/Shelter)
