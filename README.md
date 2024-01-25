@@ -27,6 +27,7 @@
 
 ### 📁 Projects:
 #### - Angular:
+ * [Portfolio (Personal website)](https://uladzimir-k-frontend-portfolio.netlify.app/) | [code](https://github.com/Kornull/personal-portfolio)
  * [RS-Network](https://kornull-rs-network.netlify.app/) | [code](https://github.com/Kornull/rs-network)
  * [YouTube-client](https://kornull-angular.netlify.app/) | [code](https://github.com/Kornull/Youtube-App)
    
