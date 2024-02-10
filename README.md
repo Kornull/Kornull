@@ -17,32 +17,6 @@
 
 ---
 
-### 📁 Projects:
-#### - Angular:
- * [Portfolio (Personal website)](https://uladzimir-k-frontend-portfolio.netlify.app/) | [code](https://github.com/Kornull/personal-portfolio)
- * [RS-Network](https://kornull-rs-network.netlify.app/) | [code](https://github.com/Kornull/rs-network)
- * [YouTube-client](https://kornull-angular.netlify.app/) | [code](https://github.com/Kornull/Youtube-App)
-   
-#### - Js/Ts:
- * [Virtual keyboard](https://kornull.github.io/virtualKeyboard/keyboard/) | [code](https://github.com/Kornull/virtualKeyboard)
- * [Async-race(game)](https://kornull-async-race.netlify.app) | [code](https://github.com/Kornull/Async-race-game-)
- * [Online-store](https://kornull.github.io/Online-store/store) | [code](https://github.com/Kornull/Online-store)
- * [News-api](https://github.com/Kornull/News-API) | `PC installation`
- * [Shelter-site](https://kornull-shelder.netlify.app) | [code](https://github.com/Kornull/Shelter)
- * [Portfolio-landing](https://rolling-scopes-school.github.io/kornull-JSFEPRESCHOOL/portfolio/) | [code](https://github.com/Kornull/RSSchool-stage0/tree/portfolio-part3)
- * [Eco-sounds](https://rolling-scopes-school.github.io/kornull-JSFEPRESCHOOL/eco-sounds/) | [code](https://github.com/Kornull/RSSchool-stage0/tree/eco-sounds)
- * [Image-gallery](https://rolling-scopes-school.github.io/kornull-JSFEPRESCHOOL/image-galery/) | [code](https://github.com/Kornull/RSSchool-stage0/tree/image-galery)
- * [Memory-game](https://rolling-scopes-school.github.io/kornull-JSFEPRESCHOOL/memory-game/) | [code](https://github.com/Kornull/RSSchool-stage0/tree/memory-game)
- * [cssMemSlider](https://kornull.github.io/cssMemSlider/cssMemSlider/) | [code](https://github.com/Kornull/cssMemSlider)
-
-
- ---
-
-### 🚀 Codewars:
-[![codewars](https://www.codewars.com/users/Kornull/badges/large)](https://www.codewars.com/users/Kornull)
-
- ---
-
 ### 🛠 Languages and Tools :
 <div >
   
@@ -67,6 +41,32 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
+
+ ---
+ 
+### 📁 Projects:
+#### - Angular:
+ * [Portfolio (Personal website)](https://uladzimir-k-frontend-portfolio.netlify.app/) | [code](https://github.com/Kornull/personal-portfolio)
+ * [RS-Network](https://kornull-rs-network.netlify.app/) | [code](https://github.com/Kornull/rs-network)
+ * [YouTube-client](https://kornull-angular.netlify.app/) | [code](https://github.com/Kornull/Youtube-App)
+   
+#### - Js/Ts:
+ * [Virtual keyboard](https://kornull.github.io/virtualKeyboard/keyboard/) | [code](https://github.com/Kornull/virtualKeyboard)
+ * [Async-race(game)](https://kornull-async-race.netlify.app) | [code](https://github.com/Kornull/Async-race-game-)
+ * [Online-store](https://kornull.github.io/Online-store/store) | [code](https://github.com/Kornull/Online-store)
+ * [News-api](https://github.com/Kornull/News-API) | `PC installation`
+ * [Shelter-site](https://kornull-shelder.netlify.app) | [code](https://github.com/Kornull/Shelter)
+ * [Portfolio-landing](https://rolling-scopes-school.github.io/kornull-JSFEPRESCHOOL/portfolio/) | [code](https://github.com/Kornull/RSSchool-stage0/tree/portfolio-part3)
+ * [Eco-sounds](https://rolling-scopes-school.github.io/kornull-JSFEPRESCHOOL/eco-sounds/) | [code](https://github.com/Kornull/RSSchool-stage0/tree/eco-sounds)
+ * [Image-gallery](https://rolling-scopes-school.github.io/kornull-JSFEPRESCHOOL/image-galery/) | [code](https://github.com/Kornull/RSSchool-stage0/tree/image-galery)
+ * [Memory-game](https://rolling-scopes-school.github.io/kornull-JSFEPRESCHOOL/memory-game/) | [code](https://github.com/Kornull/RSSchool-stage0/tree/memory-game)
+ * [cssMemSlider](https://kornull.github.io/cssMemSlider/cssMemSlider/) | [code](https://github.com/Kornull/cssMemSlider)
+
+
+ ---
+
+### 🚀 Codewars:
+[![codewars](https://www.codewars.com/users/Kornull/badges/large)](https://www.codewars.com/users/Kornull)
 
  ---
 
