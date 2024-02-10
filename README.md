@@ -13,14 +13,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  ![](https://komarev.com/ghpvc/?username=kornull&style=for-the-badge&color=blue)
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Martian+Mono&size=20&duration=2000&pause=1000&color=A9FF00FF&background=000000&center=true&&vCenter=true&multiline=true&width=800&height=100&lines=Hey!+I'm+a+Frontend+developer.;My+goal+is+the+creation+of+quality+and;marketable+products!)](https://git.io/typing-svg)
-
 </div>
 
 ---
