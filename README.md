@@ -52,6 +52,7 @@
    
 #### - Js/Ts:
  * [Virtual keyboard](https://kornull.github.io/virtualKeyboard/keyboard/) | [code](https://github.com/Kornull/virtualKeyboard)
+ * [RS-Lang](https://rs-lang-team-kornull.netlify.app/) | [code](https://github.com/Kornull/rslang)
  * [Async-race(game)](https://kornull-async-race.netlify.app) | [code](https://github.com/Kornull/Async-race-game-)
  * [Online-store](https://kornull.github.io/Online-store/store) | [code](https://github.com/Kornull/Online-store)
  * [News-api](https://github.com/Kornull/News-API) | `PC installation`
