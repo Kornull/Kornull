@@ -44,4 +44,13 @@
 </div>
 
  ---
- 
+
+ ### 🚀 Codewars:
+[![codewars](https://www.codewars.com/users/Kornull/badges/large)](https://www.codewars.com/users/Kornull)
+ ---
+### 🔥 My Stats :
+[![GitHub Streak](https://github-readme-streak-stats-olive.vercel.app?user=Kornull&theme=chartreuse_dark&&hide_border=true)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kornull&theme=chartreuse_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kornull&layout=compact&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
