@@ -54,4 +54,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kornull&theme=chartreuse_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kornull&layout=compact&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
